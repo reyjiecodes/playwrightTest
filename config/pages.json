@@ -1,0 +1,7 @@
+{
+  "login": {
+    "route": "/login",
+    "regex": "^/login$"
+  }
+
+}
